@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FormCadastro</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="interrogation">?</string>
+    <string name="work_scheduled">Work scheduled!</string>
+    <string name="work_already_scheduled">Error! Work already scheduled!</string>
+</resources>
